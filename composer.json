@@ -9,5 +9,16 @@
             "email": "5173180@qq.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Movie\\China\\": "src/Movie/China",
+            "Movie\\Us\\": "src/Movie/Us",
+            "Movie\\Japan\\": "src/Movie/Japan",
+            "Movie\\Korea\\": "src/Movie/Korea"
+        }
+    }
 }
