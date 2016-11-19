@@ -1,0 +1,13 @@
+{
+    "name": "gaopengfei/born",
+    "description": "this is just for practicing how to build a baobao",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GPF",
+            "email": "5173180@qq.com"
+        }
+    ],
+    "require": {}
+}
